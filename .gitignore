@@ -1,0 +1,7 @@
+*.log
+*.pid
+*.tac
+*.sqlite
+gitpoller-workdir/*
+passwords.py
+*.pyc
